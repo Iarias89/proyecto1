@@ -305,10 +305,13 @@
      padding: 10px;
      width: 700px;
  }
-
+.tabla {
+    border: white solid 5px;
+    padding: 5px;
+}
  td {
      padding: 10px;
-     border: solid rgb(13, 74, 98) 4px;
+     border: solid rgb(205, 237, 241) 4px;
      text-align: center;
  }
 
